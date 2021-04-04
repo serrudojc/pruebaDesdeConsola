@@ -1,0 +1,2 @@
+creando un nuevo 
+texto desde vim directo
