@@ -1,0 +1,6 @@
+hola
+estoy
+probando
+escribir 
+un archivo desde vim en una nueva rama
+
